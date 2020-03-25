@@ -91,14 +91,28 @@ textarea {
     background-color: #3a006d;
 }
 
+<<<<<<< HEAD
 @media screen and (max-width: 500px) {
     .form>div {
+=======
+/* Media Queries */
+@media screen and (max-width: 500px) {
+    .form > div {
+>>>>>>> 0a262943e1a69bb84619d8cab8928229dbd04e89
         display: flex;
         flex-direction: column;
         justify-content: center;
         align-items: center;
     }
+<<<<<<< HEAD
     label {
         text-align: center;
     }
 }
+=======
+
+    label {
+        text-align: center;
+    }
+}
+>>>>>>> 0a262943e1a69bb84619d8cab8928229dbd04e89
